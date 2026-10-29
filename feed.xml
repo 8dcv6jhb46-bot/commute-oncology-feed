@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Commute Oncology</title>
+    <link>https://8dcv6jhb46-bot.github.io/commute-oncology-feed/</link>
+    <atom:link href="https://8dcv6jhb46-bot.github.io/commute-oncology-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-gb</language>
+    <description>A personal revision podcast on the lines of treatment for prostate, kidney and bladder cancer in England. Scripts are drafted by AI from NICE, NHS England, ESMO and RCR sources and voiced by synthetic speech. Not clinical advice: check current guidance and local protocols.</description>
+    <itunes:author>Commute Oncology</itunes:author>
+    <itunes:image href="https://8dcv6jhb46-bot.github.io/commute-oncology-feed/cover.png"/>
+    <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Ep 0 · Sample: after the first newer hormone drug</title>
+      <guid isPermaLink="false">commute-oncology-ep00</guid>
+      <pubDate>Thu, 29 Oct 2026 22:16:16 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep00/ep00.m4a" length="1659202" type="audio/x-m4a"/>
+      <itunes:duration>306</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>A five-minute format sample: what comes next when metastatic prostate cancer progresses on androgen deprivation plus enzalutamide. Docetaxel, why not a second newer hormone drug, BRCA testing and PARP inhibitors, and a quiz-back.
+
+Chapters:
+0:00:00 Welcome
+0:00:29 The case
+0:01:03 What comes next
+0:03:05 The hook
+0:03:16 Quiz-back
+0:04:38 Case closed
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+  </channel>
+</rss>
