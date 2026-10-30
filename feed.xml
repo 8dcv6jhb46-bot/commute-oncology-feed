@@ -13,6 +13,36 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Voice audition M · Michael (Winchester) consultant, Helen (Glasgow) registrar</title>
+      <guid isPermaLink="false">commute-oncology-ep00vm</guid>
+      <pubDate>Fri, 30 Oct 2026 16:17:40 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep00vm/ep00vm.m4a" length="522150" type="audio/x-m4a"/>
+      <itunes:duration>90</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Michael (Winchester) consultant, Helen (Glasgow) registrar. The consultant sounds assured and authoritative, the registrar keener and less certain.
+
+Chapters:
+0:00:00 Voice audition M
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
+      <title>Voice audition L · Helen (Glasgow) consultant, Michael (Winchester) registrar</title>
+      <guid isPermaLink="false">commute-oncology-ep00vl</guid>
+      <pubDate>Fri, 30 Oct 2026 16:17:12 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep00vl/ep00vl.m4a" length="556809" type="audio/x-m4a"/>
+      <itunes:duration>95</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Helen (Glasgow) consultant, Michael (Winchester) registrar. The consultant sounds assured and authoritative, the registrar keener and less certain.
+
+Chapters:
+0:00:00 Voice audition L
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
       <title>Voice audition K · Michael (Manchester) consultant, Helen (Glasgow) registrar</title>
       <guid isPermaLink="false">commute-oncology-ep00vk</guid>
       <pubDate>Fri, 30 Oct 2026 15:55:19 +0000</pubDate>
