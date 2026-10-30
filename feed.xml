@@ -13,6 +13,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Voice audition G · Glasgow and Bristol voices</title>
+      <guid isPermaLink="false">commute-oncology-ep00vg</guid>
+      <pubDate>Fri, 30 Oct 2026 07:55:34 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep00vg/ep00vg.m4a" length="545088" type="audio/x-m4a"/>
+      <itunes:duration>93</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>The same excerpt with a warm Glasgow voice for Helen (en-gb-techagent-2) and the Bristol voice from audition D for Raj (en-gb-advisor-10).
+
+Chapters:
+0:00:00 Voice audition G
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
       <title>Voice audition F · Manchester and Bristol voices, one speaker at a time</title>
       <guid isPermaLink="false">commute-oncology-ep00vf</guid>
       <pubDate>Fri, 30 Oct 2026 07:51:04 +0000</pubDate>
