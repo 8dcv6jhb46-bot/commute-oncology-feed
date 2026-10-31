@@ -13,6 +13,45 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Ep 1 · Metastatic hormone-sensitive prostate cancer and first-line kidney cancer (Gemini voices)</title>
+      <guid isPermaLink="false">commute-oncology-ep01g</guid>
+      <pubDate>Sat, 31 Oct 2026 09:16:13 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep01g/ep01g.m4a" length="21552098" type="audio/x-m4a"/>
+      <itunes:duration>3661</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Volume (Chaarted) versus risk (Latitude) in hormone-sensitive metastatic prostate cancer, and how docetaxel fitness decides which combination England funds. Then the IMDC score in metastatic kidney cancer and the first-line combinations it unlocks, including avelumab with axitinib for favourable risk.
+
+Chapters:
+0:00:00 Welcome
+0:02:17 Rewind
+0:07:05 Topic A: volume, risk and the combinations
+0:23:18 Topic B: kidney cancer risk and first-line immunotherapy
+0:35:29 Topic A: cases
+0:45:26 Topic B: cases
+0:53:21 Lightning round
+0:56:55 Case closed
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
+      <title>Ep 1 recap · Hormone-sensitive prostate combinations and IMDC (Gemini voices)</title>
+      <guid isPermaLink="false">commute-oncology-ep01g-recap</guid>
+      <pubDate>Sat, 31 Oct 2026 09:15:13 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep01g/ep01g-recap.m4a" length="3454277" type="audio/x-m4a"/>
+      <itunes:duration>610</itunes:duration>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Ten-minute drive-home recap of episode one.
+
+Chapters:
+0:00:00 Recap questions
+0:05:08 Case re-run
+0:08:41 Hooks
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
       <title>Ep 1 · Metastatic hormone-sensitive prostate cancer and first-line kidney cancer</title>
       <guid isPermaLink="false">commute-oncology-ep01</guid>
       <pubDate>Fri, 30 Oct 2026 02:55:32 +0000</pubDate>
