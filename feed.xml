@@ -13,6 +13,47 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Ep 3 · Triplet therapy and docetaxel alone, and second-line kidney cancer</title>
+      <guid isPermaLink="false">commute-oncology-ep03</guid>
+      <pubDate>Wed, 04 Nov 2026 02:37:23 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep03/ep03.m4a" length="20855354" type="audio/x-m4a"/>
+      <itunes:duration>3546</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Triplet therapy and docetaxel alone in hormone-sensitive metastatic prostate cancer, including NHS England's darolutamide triplet form and where the European guideline parts from NICE. Then second-line treatment in kidney cancer, where the first-line form decides the list. A "You asked" chapter on when abiraterone is chosen.
+
+Chapters:
+0:00:00 Welcome
+0:02:12 Correction
+0:02:45 Rewind
+0:07:06 You asked
+0:12:08 Topic A: triplet therapy and docetaxel alone
+0:23:37 Topic B: kidney cancer, second line
+0:34:53 Topic A: cases
+0:45:10 Topic B: cases
+0:53:41 Lightning round
+0:55:34 Case closed
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
+      <title>Ep 3 recap · Triplet therapy and docetaxel alone, and second-line kidney cancer</title>
+      <guid isPermaLink="false">commute-oncology-ep03-recap</guid>
+      <pubDate>Wed, 04 Nov 2026 02:36:23 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep03/ep03-recap.m4a" length="3259399" type="audio/x-m4a"/>
+      <itunes:duration>569</itunes:duration>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Ten-minute drive-home recap of episode three.
+
+Chapters:
+0:00:00 Recap questions
+0:05:54 Case re-run
+0:07:09 Hooks
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
       <title>Ep 2 · After a newer hormone drug in prostate cancer, and first-line metastatic bladder cancer</title>
       <guid isPermaLink="false">commute-oncology-ep02</guid>
       <pubDate>Tue, 03 Nov 2026 02:26:39 +0000</pubDate>
