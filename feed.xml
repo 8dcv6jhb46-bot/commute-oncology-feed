@@ -13,6 +13,45 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Ep 4 · Chemotherapy before cystectomy, and BRCA and PARP inhibitors</title>
+      <guid isPermaLink="false">commute-oncology-ep04</guid>
+      <pubDate>Thu, 05 Nov 2026 02:53:47 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep04/ep04.m4a" length="17342824" type="audio/x-m4a"/>
+      <itunes:duration>3070</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Neoadjuvant cisplatin in muscle-invasive bladder cancer, and the change in March 2026: England now funds durvalumab with it, on form DUR8. Then PARP inhibitors in prostate cancer: olaparib alone after a newer hormone drug needs BRCA, while the combination forms ask for no mutation. Where Europe and England differ on both.
+
+Chapters:
+0:00:00 Welcome
+0:01:46 Rewind
+0:06:18 Topic A: chemotherapy before cystectomy
+0:16:04 Topic B: BRCA and PARP inhibitors
+0:25:49 Topic A: cases
+0:36:34 Topic B: cases
+0:45:45 Lightning round
+0:47:23 Case closed
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
+      <title>Ep 4 recap · Chemotherapy before cystectomy, and BRCA and PARP inhibitors</title>
+      <guid isPermaLink="false">commute-oncology-ep04-recap</guid>
+      <pubDate>Thu, 05 Nov 2026 02:52:47 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep04/ep04-recap.m4a" length="3007427" type="audio/x-m4a"/>
+      <itunes:duration>548</itunes:duration>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Ten-minute drive-home recap of episode four.
+
+Chapters:
+0:00:00 Recap questions
+0:04:27 Case re-run
+0:06:44 Hooks
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
       <title>Ep 3 · Triplet therapy and docetaxel alone, and second-line kidney cancer</title>
       <guid isPermaLink="false">commute-oncology-ep03</guid>
       <pubDate>Wed, 04 Nov 2026 02:37:23 +0000</pubDate>
