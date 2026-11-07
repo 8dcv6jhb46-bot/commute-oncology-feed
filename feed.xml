@@ -13,51 +13,6 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
-      <title>Voice test C: a different voice, steadier direction, respelt drug names</title>
-      <guid isPermaLink="false">commute-oncology-vtc</guid>
-      <pubDate>Sat, 07 Nov 2026 08:30:40 +0000</pubDate>
-      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/vtc/vtc.m4a" length="1790261" type="audio/x-m4a"/>
-      <itunes:duration>310</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <description>A short test of the voices, using lines from Ep 2. Not a new episode.
-
-Chapters:
-0:00:00 Voice test
-
-Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
-    </item>
-    <item>
-      <title>Voice test B: same voice, steadier direction, respelt drug names</title>
-      <guid isPermaLink="false">commute-oncology-vtb</guid>
-      <pubDate>Sat, 07 Nov 2026 08:28:56 +0000</pubDate>
-      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/vtb/vtb.m4a" length="1790150" type="audio/x-m4a"/>
-      <itunes:duration>310</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <description>A short test of the voices, using lines from Ep 2. Not a new episode.
-
-Chapters:
-0:00:00 Voice test
-
-Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
-    </item>
-    <item>
-      <title>Voice test A: Michael as he is now</title>
-      <guid isPermaLink="false">commute-oncology-vta</guid>
-      <pubDate>Sat, 07 Nov 2026 08:27:15 +0000</pubDate>
-      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/vta/vta.m4a" length="1786846" type="audio/x-m4a"/>
-      <itunes:duration>308</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <description>A short test of the voices, using lines from Ep 2. Not a new episode.
-
-Chapters:
-0:00:00 Voice test
-
-Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
-    </item>
-    <item>
       <title>Ep 5 · High-risk non-metastatic prostate cancer and adjuvant immunotherapy after nephrectomy</title>
       <guid isPermaLink="false">commute-oncology-ep05</guid>
       <pubDate>Fri, 06 Nov 2026 02:33:32 +0000</pubDate>
