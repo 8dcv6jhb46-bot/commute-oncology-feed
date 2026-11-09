@@ -13,6 +13,46 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Ep 6 · Non-metastatic castration-resistant prostate cancer and the bladder return visit</title>
+      <guid isPermaLink="false">commute-oncology-ep06</guid>
+      <pubDate>Mon, 09 Nov 2026 02:28:29 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep06/ep06.m4a" length="20932059" type="audio/x-m4a"/>
+      <itunes:duration>3573</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Apalutamide or darolutamide when PSA is rising on hormones with clean conventional scans: forms APA1 and DARO1, Spartan, Aramis and Prosper, enzalutamide as European guideline only, and the open question of PSMA PET. Then a return visit to first-line metastatic bladder cancer: EV-302 survival in each arm, what the enfortumab form asks, and where Europe and England differ. Corrections to Eps 1, 2 and 3.
+
+Chapters:
+0:00:00 Welcome
+0:02:23 Correction
+0:06:37 Rewind
+0:11:20 Topic A: non-metastatic castration-resistant prostate cancer
+0:25:14 Topic B: metastatic bladder cancer, return visit
+0:34:14 Topic A: cases
+0:44:55 Topic B: cases
+0:54:11 Lightning round
+0:56:02 Case closed
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
+      <title>Ep 6 recap · Non-metastatic castration-resistant prostate cancer and bladder first line</title>
+      <guid isPermaLink="false">commute-oncology-ep06-recap</guid>
+      <pubDate>Mon, 09 Nov 2026 02:27:29 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep06/ep06-recap.m4a" length="3258504" type="audio/x-m4a"/>
+      <itunes:duration>574</itunes:duration>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Evening recap: forms APA1 and DARO1, Spartan and Aramis, EV-302 and the disagreements with Europe.
+
+Chapters:
+0:00:00 Recap questions
+0:02:38 Case re-run
+0:07:26 Hooks
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
       <title>Ep 5 · High-risk non-metastatic prostate cancer and adjuvant immunotherapy after nephrectomy</title>
       <guid isPermaLink="false">commute-oncology-ep05</guid>
       <pubDate>Fri, 06 Nov 2026 02:33:32 +0000</pubDate>
