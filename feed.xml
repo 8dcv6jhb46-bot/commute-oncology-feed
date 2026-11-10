@@ -13,6 +13,45 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Ep 7 · Platinum then avelumab maintenance, and PSA relapse after prostatectomy</title>
+      <guid isPermaLink="false">commute-oncology-ep07</guid>
+      <pubDate>Tue, 10 Nov 2026 02:32:26 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep07/ep07.m4a" length="21414573" type="audio/x-m4a"/>
+      <itunes:duration>3624</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Bladder: gemcitabine with cisplatin or carboplatin, then avelumab maintenance if the end-of-chemotherapy scan shows no progression, with Javelin Bladder 100, the avelumab form and where Europe differs. Prostate: a rising PSA after prostatectomy, NICE's offer of prostate bed radiotherapy, Europe's timing, risk groups and hormones, and Embark's enzalutamide as European guideline only.
+
+Chapters:
+0:00:00 Welcome
+0:02:45 Rewind
+0:08:08 Topic A: platinum chemotherapy, then avelumab maintenance
+0:19:31 Topic B: PSA relapse after prostatectomy
+0:32:12 Topic A: cases
+0:42:11 Topic B: cases
+0:53:35 Lightning round
+0:55:29 Case closed
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
+      <title>Ep 7 recap · Avelumab maintenance and PSA relapse after prostatectomy</title>
+      <guid isPermaLink="false">commute-oncology-ep07-recap</guid>
+      <pubDate>Tue, 10 Nov 2026 02:31:26 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep07/ep07-recap.m4a" length="3218215" type="audio/x-m4a"/>
+      <itunes:duration>569</itunes:duration>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Evening recap: the avelumab form, Javelin Bladder 100, salvage radiotherapy and hormones after prostatectomy, and where Europe and England differ.
+
+Chapters:
+0:00:00 Recap questions
+0:03:23 Case re-run
+0:06:25 Hooks
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
       <title>Ep 6 · Non-metastatic castration-resistant prostate cancer and the bladder return visit</title>
       <guid isPermaLink="false">commute-oncology-ep06</guid>
       <pubDate>Mon, 09 Nov 2026 02:28:29 +0000</pubDate>
