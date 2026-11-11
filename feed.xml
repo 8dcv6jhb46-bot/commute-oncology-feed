@@ -13,6 +13,45 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Ep 8 · Single first-line drugs for kidney cancer, and non-muscle-invasive bladder cancer and BCG</title>
+      <guid isPermaLink="false">commute-oncology-ep08</guid>
+      <pubDate>Wed, 11 Nov 2026 02:43:12 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep08/ep08.m4a" length="20911611" type="audio/x-m4a"/>
+      <itunes:duration>3554</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Kidney: who has a single first-line oral drug in England (sunitinib, pazopanib, tivozanib at any risk score; cabozantinib alone only for intermediate or poor risk), their trials, the tivozanib and cabozantinib forms, and where Europe differs at favourable risk. Bladder: NICE's three risk groups, the single mitomycin at first resection, re-resection, mitomycin for intermediate risk, BCG or cystectomy for high risk, and what happens when BCG fails.
+
+Chapters:
+0:00:00 Welcome
+0:02:43 Rewind
+0:07:36 Topic A: kidney cancer, first-line oral drugs
+0:19:47 Topic B: non-muscle-invasive bladder cancer and BCG
+0:30:49 Topic A: cases
+0:42:02 Topic B: cases
+0:53:34 Lightning round
+0:54:51 Case closed
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
+      <title>Ep 8 recap · Single first-line drugs for kidney cancer, and BCG for early bladder cancer</title>
+      <guid isPermaLink="false">commute-oncology-ep08-recap</guid>
+      <pubDate>Wed, 11 Nov 2026 02:42:12 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep08/ep08-recap.m4a" length="3744639" type="audio/x-m4a"/>
+      <itunes:duration>656</itunes:duration>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Evening recap: the first-line kidney oral drugs and their forms, NICE's risk groups and ladder for non-muscle-invasive bladder cancer, BCG, and where Europe and England differ.
+
+Chapters:
+0:00:00 Recap questions
+0:05:28 Case re-run
+0:07:31 Hooks
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
       <title>Ep 7 · Platinum then avelumab maintenance, and PSA relapse after prostatectomy</title>
       <guid isPermaLink="false">commute-oncology-ep07</guid>
       <pubDate>Tue, 10 Nov 2026 02:32:26 +0000</pubDate>
