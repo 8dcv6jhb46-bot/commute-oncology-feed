@@ -13,6 +13,43 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Ep 10 · Friday mixed round: fifteen cases from episodes one to nine</title>
+      <guid isPermaLink="false">commute-oncology-ep10</guid>
+      <pubDate>Fri, 13 Nov 2026 02:25:05 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep10/ep10.m4a" length="20480840" type="audio/x-m4a"/>
+      <itunes:duration>3492</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>No new teaching: fifteen cases across prostate, kidney and bladder cancer, with four twins, where one detail changes the answer. Retests this week's corrections (enfortumab vedotin with pembrolizumab as an option in England, Stopcap's wording, newly diagnosed on the forms) and the Arasens survival figures, then a lightning round and the week's hooks.
+
+Chapters:
+0:00:00 Welcome
+0:01:23 Cases, part one
+0:23:49 Cases, part two
+0:36:06 Cases, part three
+0:51:08 Lightning round
+0:55:15 The week's hooks
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
+      <title>Ep 10 recap · Friday mixed round</title>
+      <guid isPermaLink="false">commute-oncology-ep10-recap</guid>
+      <pubDate>Fri, 13 Nov 2026 02:24:05 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep10/ep10-recap.m4a" length="3021150" type="audio/x-m4a"/>
+      <itunes:duration>540</itunes:duration>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Seven questions from the mixed round, Mister Lau's favourable-risk kidney case again, and the week's hooks.
+
+Chapters:
+0:00:00 Recap questions
+0:03:55 Case re-run
+0:06:05 Hooks
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
       <title>Ep 9 · Living on prostate hormone therapy, and kidney cancer toxicity</title>
       <guid isPermaLink="false">commute-oncology-ep09</guid>
       <pubDate>Thu, 12 Nov 2026 02:42:44 +0000</pubDate>
