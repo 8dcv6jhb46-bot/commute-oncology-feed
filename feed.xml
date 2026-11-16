@@ -13,6 +13,46 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Ep 11 · Castration-resistant prostate cancer after a newer hormone drug, again, and localised kidney cancer</title>
+      <guid isPermaLink="false">commute-oncology-ep11</guid>
+      <pubDate>Mon, 16 Nov 2026 02:26:07 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep11/ep11.m4a" length="21007711" type="audio/x-m4a"/>
+      <itunes:duration>3569</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>A return visit to castration-resistant prostate cancer after a newer hormone drug, door by door: a second hormone drug and the toxicity swap, docetaxel, cabazitaxel and Card, radium-223 and its form, and where Europe differs. Then localised kidney cancer: NICE's two, four and seven centimetre decisions, partial versus total nephrectomy, surveillance, ablation, biopsy and follow-up. Opens with two corrections: abiraterone's monitoring rule and Ep 1's kidney hook.
+
+Chapters:
+0:00:00 Welcome
+0:02:36 Correction
+0:06:56 Rewind
+0:11:25 Topic A: castration-resistant prostate cancer after a newer hormone drug
+0:24:00 Topic B: localised kidney cancer
+0:33:41 Topic A: cases
+0:44:15 Topic B: cases
+0:52:50 Lightning round
+0:55:12 Case closed
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
+      <title>Ep 11 recap · After a newer hormone drug, and localised kidney cancer</title>
+      <guid isPermaLink="false">commute-oncology-ep11-recap</guid>
+      <pubDate>Mon, 16 Nov 2026 02:25:07 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep11/ep11-recap.m4a" length="3508989" type="audio/x-m4a"/>
+      <itunes:duration>612</itunes:duration>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Evening recap of Ep 11.
+
+Chapters:
+0:00:00 Recap questions
+0:05:25 Case re-run
+0:07:22 Hooks
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
       <title>Ep 10 · Friday mixed round: fifteen cases from episodes one to nine</title>
       <guid isPermaLink="false">commute-oncology-ep10</guid>
       <pubDate>Fri, 13 Nov 2026 02:25:05 +0000</pubDate>
