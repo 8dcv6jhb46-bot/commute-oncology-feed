@@ -13,6 +13,45 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Ep 12 · Keeping the bladder with chemoradiotherapy, and prostate risk groups with active surveillance</title>
+      <guid isPermaLink="false">commute-oncology-ep12</guid>
+      <pubDate>Tue, 17 Nov 2026 02:30:13 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep12/ep12.m4a" length="22176303" type="audio/x-m4a"/>
+      <itunes:duration>3833</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Bladder preservation for muscle-invasive bladder cancer: NICE's choice of cystectomy or radiotherapy with a radiosensitiser, neoadjuvant cisplatin first, BC2001 and BCON, fluorouracil and mitomycin safety, and four ways Europe differs. Then prostate risk groups: the five Cambridge Prognostic Groups, what NICE offers in each, ProtecT at 15 years, NICE's surveillance protocol, and where ESMO is narrower.
+
+Chapters:
+0:00:00 Welcome
+0:02:16 Rewind
+0:07:54 Topic A: keeping the bladder
+0:20:05 Topic B: prostate risk groups and active surveillance
+0:32:42 Topic A: cases
+0:43:55 Topic B: cases
+0:56:57 Lightning round
+0:59:06 Case closed
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
+      <title>Ep 12 recap · Keeping the bladder, and prostate risk groups</title>
+      <guid isPermaLink="false">commute-oncology-ep12-recap</guid>
+      <pubDate>Tue, 17 Nov 2026 02:29:13 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep12/ep12-recap.m4a" length="2823872" type="audio/x-m4a"/>
+      <itunes:duration>511</itunes:duration>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Evening recap of Ep 12.
+
+Chapters:
+0:00:00 Recap questions
+0:04:02 Case re-run
+0:05:47 Hooks
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
       <title>Ep 11 · Castration-resistant prostate cancer after a newer hormone drug, again, and localised kidney cancer</title>
       <guid isPermaLink="false">commute-oncology-ep11</guid>
       <pubDate>Mon, 16 Nov 2026 02:26:07 +0000</pubDate>
