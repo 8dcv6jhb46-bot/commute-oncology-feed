@@ -13,6 +13,45 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Ep 13 · Radical treatment for localised prostate cancer with hormone duration, and kidney cancer in the later lines</title>
+      <guid isPermaLink="false">commute-oncology-ep13</guid>
+      <pubDate>Wed, 18 Nov 2026 02:40:25 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep13/ep13.m4a" length="21250310" type="audio/x-m4a"/>
+      <itunes:duration>3607</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Localised prostate cancer: who hears from both specialists, Protect's side-effect trade-offs, NICE's six months of hormones with external beam radiotherapy and up to three years for groups four and five, the trials behind it, Europe's longer course and the new NHS England stereotactic radiotherapy policy. Then kidney cancer after two lines: NICE's pathway steps, the nivolumab, cabozantinib and lenvatinib with everolimus forms, Record one and Litespark oh oh five, and Europe's belzutifan.
+
+Chapters:
+0:00:00 Welcome
+0:02:25 Rewind
+0:07:37 Topic A: radical treatment and hormones with radiotherapy
+0:21:07 Topic B: kidney cancer in the later lines
+0:31:08 Topic A: cases
+0:44:53 Topic B: cases
+0:53:36 Lightning round
+0:55:08 Case closed
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
+      <title>Ep 13 · Radical treatment for localised prostate cancer with hormone duration, and kidney cancer in the later lines · recap</title>
+      <guid isPermaLink="false">commute-oncology-ep13-recap</guid>
+      <pubDate>Wed, 18 Nov 2026 02:39:25 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep13/ep13-recap.m4a" length="3804872" type="audio/x-m4a"/>
+      <itunes:duration>659</itunes:duration>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>
+
+Chapters:
+0:00:00 Recap questions
+0:06:00 Case re-run
+0:08:00 Hooks
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
       <title>Ep 12 · Keeping the bladder with chemoradiotherapy, and prostate risk groups with active surveillance</title>
       <guid isPermaLink="false">commute-oncology-ep12</guid>
       <pubDate>Tue, 17 Nov 2026 02:30:13 +0000</pubDate>
