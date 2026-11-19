@@ -13,6 +13,45 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Ep 14 · Side effects in advanced bladder cancer, and PSA relapse after radiotherapy</title>
+      <guid isPermaLink="false">commute-oncology-ep14</guid>
+      <pubDate>Thu, 19 Nov 2026 02:38:28 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep14/ep14.m4a" length="21200305" type="audio/x-m4a"/>
+      <itunes:duration>3587</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Bladder cancer side effects by drug, from the licences: enfortumab vedotin's skin, nerve, sugar, eye and lung rules, pembrolizumab's immune side effects, and what cisplatin, carboplatin and gemcitabine need watching. Then a rising PSA after radiotherapy: nadir plus two, NICE's three reasons for hormones, scanning and biopsy, local salvage, Toad and P R seven on timing and intermittent hormones, and Europe's enzalutamide for high-risk relapse.
+
+Chapters:
+0:00:00 Welcome
+0:02:41 Rewind
+0:08:30 Topic A: side effects in advanced bladder cancer
+0:20:55 Topic B: PSA relapse after radiotherapy
+0:32:04 Topic A: cases
+0:42:19 Topic B: cases
+0:52:43 Lightning round
+0:54:20 Case closed
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
+      <title>Ep 14 · Side effects in advanced bladder cancer, and PSA relapse after radiotherapy · recap</title>
+      <guid isPermaLink="false">commute-oncology-ep14-recap</guid>
+      <pubDate>Thu, 19 Nov 2026 02:37:28 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep14/ep14-recap.m4a" length="3151660" type="audio/x-m4a"/>
+      <itunes:duration>556</itunes:duration>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>
+
+Chapters:
+0:00:00 Recap questions
+0:04:09 Case re-run
+0:06:16 Hooks
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
       <title>Ep 13 · Radical treatment for localised prostate cancer with hormone duration, and kidney cancer in the later lines</title>
       <guid isPermaLink="false">commute-oncology-ep13</guid>
       <pubDate>Wed, 18 Nov 2026 02:40:25 +0000</pubDate>
