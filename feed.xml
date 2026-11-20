@@ -13,6 +13,43 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Ep 15 · Friday mixed round: fifteen cases from episodes eleven to fourteen</title>
+      <guid isPermaLink="false">commute-oncology-ep15</guid>
+      <pubDate>Fri, 20 Nov 2026 02:34:57 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep15/ep15.m4a" length="21329117" type="audio/x-m4a"/>
+      <itunes:duration>3612</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>No new teaching: fifteen cases across this week's prostate, kidney and bladder topics, plus first-line kidney risk and the darolutamide triplet, with five twins where one detail changes the answer. Retests Monday's two corrections (abiraterone's two-weekly heart checks and the new kidney hook) and the Arasens survival figures, then a lightning round and the week's hooks.
+
+Chapters:
+0:00:00 Welcome
+0:01:20 Cases, part one
+0:20:36 Cases, part two
+0:38:29 Cases, part three
+0:49:56 Lightning round
+0:51:59 The week's hooks
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
+      <title>Ep 15 · Friday mixed round: fifteen cases from episodes eleven to fourteen · recap</title>
+      <guid isPermaLink="false">commute-oncology-ep15-recap</guid>
+      <pubDate>Fri, 20 Nov 2026 02:33:57 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep15/ep15-recap.m4a" length="4666176" type="audio/x-m4a"/>
+      <itunes:duration>797</itunes:duration>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>
+
+Chapters:
+0:00:00 Recap questions
+0:04:12 Case re-run
+0:05:31 Hooks
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
       <title>Ep 14 · Side effects in advanced bladder cancer, and PSA relapse after radiotherapy</title>
       <guid isPermaLink="false">commute-oncology-ep14</guid>
       <pubDate>Thu, 19 Nov 2026 02:38:28 +0000</pubDate>
