@@ -13,6 +13,46 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Ep 16 · Prostate radiotherapy for low-volume metastatic disease, and immunotherapy around bladder surgery</title>
+      <guid isPermaLink="false">commute-oncology-ep16</guid>
+      <pubDate>Thu, 26 Nov 2026 02:24:55 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep16/ep16.m4a" length="21596388" type="audio/x-m4a"/>
+      <itunes:duration>3666</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Radiotherapy to the prostate for newly diagnosed men with four or fewer bone metastases and nothing visceral (NHS England's policy, Stampede's low-burden survival), and stereotactic radiotherapy for up to three metastases that appear at least six months after treatment. Then immunotherapy around bladder surgery: durvalumab with chemotherapy before cystectomy (Niagara), adjuvant nivolumab for PD-L1-positive disease when platinum is unsuitable (Checkmate 274's five-year survival), and what England hasn't decided yet. Opens with two corrections.
+
+Chapters:
+0:00:00 Welcome
+0:03:01 Correction
+0:07:58 Rewind
+0:11:04 Topic A: radiotherapy to the prostate and to a few metastases
+0:20:15 Topic B: immunotherapy around bladder surgery
+0:30:56 Topic A: cases
+0:43:07 Topic B: cases
+0:53:56 Lightning round
+0:55:55 Case closed
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
+      <title>Ep 16 · Prostate radiotherapy for low-volume metastatic disease, and immunotherapy around bladder surgery · recap</title>
+      <guid isPermaLink="false">commute-oncology-ep16-recap</guid>
+      <pubDate>Thu, 26 Nov 2026 02:23:55 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep16/ep16-recap.m4a" length="3341839" type="audio/x-m4a"/>
+      <itunes:duration>595</itunes:duration>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>
+
+Chapters:
+0:00:00 Recap questions
+0:03:48 Case re-run
+0:06:06 Hooks
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
       <title>Ep 15 · Friday mixed round: fifteen cases from episodes eleven to fourteen</title>
       <guid isPermaLink="false">commute-oncology-ep15</guid>
       <pubDate>Fri, 20 Nov 2026 02:34:57 +0000</pubDate>
