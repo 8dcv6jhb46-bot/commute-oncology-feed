@@ -13,6 +13,45 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Ep 17 · Non-clear-cell kidney cancer, and bladder cancer after first-line treatment</title>
+      <guid isPermaLink="false">commute-oncology-ep17</guid>
+      <pubDate>Fri, 27 Nov 2026 03:02:48 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep17/ep17.m4a" length="17674338" type="audio/x-m4a"/>
+      <itunes:duration>3114</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Papillary, chromophobe and the rarer kidney cancers go through the same NHS England forms as clear cell, with the IMDC risk group deciding which drug (Pap Met, Sunniforecast). Then bladder cancer after first line: erdafitinib for FGFR3 alterations after a checkpoint inhibitor (Thor), atezolizumab after platinum for people who have never had one, and chemotherapy, with drug blocks for each.
+
+Chapters:
+0:00:00 Welcome
+0:02:15 Rewind
+0:05:35 Topic A: non-clear-cell kidney cancer
+0:13:32 Topic B: bladder cancer after first line
+0:24:37 Topic A: cases
+0:34:44 Topic B: cases
+0:47:01 Lightning round
+0:48:25 Case closed
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
+      <title>Ep 17 recap · Non-clear-cell kidney cancer, and bladder cancer after first-line treatment</title>
+      <guid isPermaLink="false">commute-oncology-ep17-recap</guid>
+      <pubDate>Fri, 27 Nov 2026 03:01:48 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/commute-oncology-feed/releases/download/ep17/ep17-recap.m4a" length="2540237" type="audio/x-m4a"/>
+      <itunes:duration>468</itunes:duration>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>
+
+Chapters:
+0:00:00 Recap questions
+0:03:32 Case re-run
+0:05:51 Hooks
+
+Personal revision material, AI-drafted with synthetic voices. Patients are fictional. Not clinical advice: check current NICE, NHS England and local guidance.</description>
+    </item>
+    <item>
       <title>Ep 16 · Prostate radiotherapy for low-volume metastatic disease, and immunotherapy around bladder surgery</title>
       <guid isPermaLink="false">commute-oncology-ep16</guid>
       <pubDate>Thu, 26 Nov 2026 02:24:55 +0000</pubDate>
